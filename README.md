@@ -22,7 +22,7 @@ _Убедитесь, что у вас установлен Node.js версии 
 ### Склонируйте репозиторий
 
 ```bash
-git clone git@github.com:ByteSpectre/ToDo.git
+git clone git@github.com:German383/ToDo.git
 ```
 
 ### Установите зависимости
@@ -51,7 +51,6 @@ make lint
 
 ## Docker
 
-_Make sure you have Docker installed and running_
 
 ### Создайте контейнер
 
